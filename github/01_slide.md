@@ -8,11 +8,11 @@
 * go to https://github.com/EmeraldCityProgrammingGroup/ruby_koans
 * Click the "Fork" button
 
-!SLIDE center
+!SLIDE center full-screen
 
 ![ALT Github Koans](emerald_hub.png)
 
-!SLIDE center
+!SLIDE center full-screen
 
 ![alt Fork Koans](forked_koans.png)
 
@@ -26,3 +26,4 @@
   
     $ git clone <copied URL from github >
   
+

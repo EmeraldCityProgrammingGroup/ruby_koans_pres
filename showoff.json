@@ -1,7 +1,9 @@
 {
   "name": "My Preso", 
   "sections": [ 
-    {"section":"github"},
+    {"section":"notes"},
+	{"section":"title"},
+	{"section":"github"},
     {"section": "koans"}
   ]
 }

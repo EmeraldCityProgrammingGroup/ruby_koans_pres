@@ -52,7 +52,7 @@
     end
 
 !SLIDE commandline small
-#Comminting code back to the branch#
+#Commiting code back to the branch#
     $ git commit -am "completed koan file"
 
 !SLIDE title
